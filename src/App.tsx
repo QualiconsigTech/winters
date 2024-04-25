@@ -16,10 +16,10 @@ function App() {
         </Flex>
         <Flex flexDir={'column'} justify={'center'} gap={7}>
           <Flex justify={'center'} borderRadius={'10px'} align={'center'} color={'white'} fontSize={'20px'} fontWeight={'650'} bg={'#000'} h={'60px'} alignContent={'center'} w={'250px'} p={2}>
-            <Link to='/producao'>Qualiconsig Produção</Link>
+            <Link to='/producao'>Qualiconsig</Link>
           </Flex>
           <Flex justify={'center'} borderRadius={'10px'} align={'center'} color={'white'} fontSize={'20px'} fontWeight={'650'} bg={'#000'} h={'60px'} alignContent={'center'} w={'250px'} p={2}> 
-            <Link  to={'/Parceiros'}>Qualiconsig Parceiros</Link>
+            <Link  to={'/Parceiros'}>Parceiros</Link>
           </Flex>
         </Flex>
       </Flex>
