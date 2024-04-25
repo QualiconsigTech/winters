@@ -32,7 +32,7 @@ const Producao = () => {
 
         <Flex ml={'20px'} h={'40vh'} align={'center'} >
           <Flex cursor='pointer' justify={'center'} fontSize={'20px'} align={'center'} bg={'#081D2B'} borderRadius={'10px'} transition={'all ease 0.2s'} h={'150px'} w={'200px'} _hover={{bg: '#0d3149'}} p={5} color={'white'}>
-            <Link to={'https://app.powerbi.com/reportEmbed?reportId=e01cab67-3e49-415d-8374-58d8207e4a7c&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}>Ranking Diario</Link>
+            <Link target="_blank"   to={'https://app.powerbi.com/reportEmbed?reportId=e01cab67-3e49-415d-8374-58d8207e4a7c&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}>Ranking Diario</Link>
           </Flex>
         </Flex>
 
