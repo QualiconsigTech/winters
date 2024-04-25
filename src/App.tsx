@@ -1,6 +1,6 @@
 import './App.css'
-import { Box, Button, Flex, Image, Link, Text } from '@chakra-ui/react'
-import Producao from './pages/producao'
+import { Box, Flex, Image, Link, Text } from '@chakra-ui/react'
+
 
 function App() {
 
