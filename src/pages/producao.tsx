@@ -1,4 +1,4 @@
-import { Box, Flex, ListItem, Text, UnorderedList } from "@chakra-ui/react"
+import { Box, Flex, ListItem, UnorderedList } from "@chakra-ui/react"
 import { Link } from "react-router-dom"
 import Qualilogo from '../../public/QualiconsigLogo.png'
 
