@@ -1,4 +1,4 @@
-import {  Flex, Icon, Image, Link, Text } from "@chakra-ui/react"
+import {  Flex, Icon, Link, Text } from "@chakra-ui/react"
 import { MdKeyboardArrowLeft } from "react-icons/md"
 
 const Parceiros = () => {
@@ -10,7 +10,7 @@ const Parceiros = () => {
         <Link href='/' textAlign={'center'} mt={'20px'} color={'white'}><Icon fontSize={'40px'} as={MdKeyboardArrowLeft }/></Link>
         <Flex h={'10vh'} align={'center'}>
           <Flex align={'center'} gap={2}>
-              <Image src='../public/QualiconsigLogo.png'/>
+              <img src='../public/QualiconsigLogo.png'/>
               <Text fontSize={'25px'}  color={'white'}>Parceiros</Text>
           </Flex>
         </Flex>

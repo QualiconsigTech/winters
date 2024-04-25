@@ -1,4 +1,4 @@
-import { Flex, Image, Text } from "@chakra-ui/react"
+import { Flex, Text } from "@chakra-ui/react"
 import { Link } from "react-router-dom"
 
 const Producao = () => {
@@ -9,7 +9,7 @@ const Producao = () => {
       <Link  to="/" ></Link>
       <Flex h={'10vh'} align={'center'}>
         <Flex align={'center'} gap={2}>
-            <Image src='../public/QualiconsigLogo.png'/>
+            <img src='../public/QualiconsigLogo.png'/>
             <Text fontSize={'25px'}  color={'white'}>Produção</Text>
         </Flex>
       </Flex>
