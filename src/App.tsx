@@ -22,12 +22,12 @@ function App() {
               <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
                 color: '#fff'
               }}>
-                <Link target="_blank"   to={'/producao'}>Qualiconsig</Link>
+                <Link   to={'/producao'}  >Qualiconsig</Link>
               </ListItem>
               <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
                 color: '#fff'
               }}>
-                <Link target="_blank"   to={'/Parceiros'}>Parceiros</Link>
+                <Link   to={'/Parceiros'}>Parceiros</Link>
               </ListItem>
               
             </UnorderedList>
