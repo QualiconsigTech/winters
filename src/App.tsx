@@ -15,10 +15,14 @@ function App() {
           </Flex>
         </Flex>
         <Flex flexDir={'column'} justify={'center'} gap={7}>
-          <Flex justify={'center'} borderRadius={'10px'} align={'center'} color={'white'} fontSize={'20px'} fontWeight={'650'} bg={'#081D2B'} h={'60px'} alignContent={'center'} w={'250px'} p={2}>
+          <Flex _hover={{
+            bg: '#0c344e'
+          }} transition={'all ease 0.2s'} justify={'center'} borderRadius={'10px'} align={'center'} color={'white'} fontSize={'20px'} fontWeight={'650'} bg={'#081D2B'} h={'60px'} alignContent={'center'} w={'250px'} p={2}>
             <Link to='/producao'>Qualiconsig</Link>
           </Flex>
-          <Flex justify={'center'} borderRadius={'10px'} align={'center'} color={'white'} fontSize={'20px'} fontWeight={'650'} bg={'#081D2B'} h={'60px'} alignContent={'center'} w={'250px'} p={2}> 
+          <Flex _hover={{
+            bg: '#0c344e'
+          }} transition={'all ease 0.2s'}  justify={'center'} borderRadius={'10px'} align={'center'} color={'white'} fontSize={'20px'} fontWeight={'650'} bg={'#081D2B'} h={'60px'} alignContent={'center'} w={'250px'} p={2}> 
             <Link  to={'/Parceiros'}>Parceiros</Link>
           </Flex>
         </Flex>

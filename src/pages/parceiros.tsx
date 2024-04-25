@@ -16,11 +16,11 @@ const Parceiros = () => {
           </Flex>
         </Flex>
         <Flex align={'center'}>
-        <Flex display={'flex'} alignItems={'center'} justifyContent={'center'} bg={'#081D2B'} borderRadius={'12px'} h={'150px'} w={'200px'} textAlign={'center'} fontSize={'20px'} _hover={{
-            textStyle: 'none',
-
-          }}  color={'white'} >
-          <Link  to="https://app.powerbi.com/reportEmbed?reportId=e9eb89fd-43a0-40e1-b5dd-ff89fbfd72b9&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060">Visão Bancos</Link>
+        <Flex  display={'flex'} alignItems={'center'} justifyContent={'center'} bg={'#081D2B'} borderRadius={'12px'} h={'150px'} w={'200px'} textAlign={'center'} fontSize={'20px'} _hover={{
+            bg: '#0c344e',
+            textStyle: 'none'
+          }} transition={'all ease 0.2s'}  color={'white'} >
+          <Link target="_blank"  to="https://app.powerbi.com/reportEmbed?reportId=e9eb89fd-43a0-40e1-b5dd-ff89fbfd72b9&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060">Visão Bancos</Link>
         </Flex>
         </Flex>
       </Flex>

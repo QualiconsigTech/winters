@@ -15,8 +15,10 @@ const Producao = () => {
         </Flex>
       </Flex>
       <Flex align={'center'}>
-      <Flex bg={'#081D2B'} color={'white'} p={5} borderRadius={'14px'}>
-        <Link to="https://app.powerbi.com/reportEmbed?reportId=e01cab67-3e49-415d-8374-58d8207e4a7c&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e">Ranking Diario</Link>
+      <Flex  bg={'#081D2B'} color={'white'} p={5} borderRadius={'14px'} _hover={{
+            bg: '#0c344e'
+          }} transition={'all ease 0.2s'}>
+        <Link target="_blank" to="https://app.powerbi.com/reportEmbed?reportId=e01cab67-3e49-415d-8374-58d8207e4a7c&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e">Ranking Diario</Link>
       </Flex>
       </Flex>
     </Flex>
