@@ -6,7 +6,7 @@ const Parceiros = () => {
 
 
   return (
-    <Flex w={'100vw'} justify={'center'}  h={'100vh'} bg={'#022144'}>
+    <Flex w={'100vw'} justify={'center'}  h={'100vh'} bg={'#0D2434'}>
       <Flex w={'80%'}  >
         <Link to='/'>voltar</Link>
         <Flex h={'10vh'} align={'center'}>
@@ -16,7 +16,7 @@ const Parceiros = () => {
           </Flex>
         </Flex>
         <Flex align={'center'}>
-        <Flex display={'flex'} alignItems={'center'} justifyContent={'center'} bg={'black'} borderRadius={'12px'} h={'150px'} w={'200px'} textAlign={'center'} fontSize={'20px'} _hover={{
+        <Flex display={'flex'} alignItems={'center'} justifyContent={'center'} bg={'#081D2B'} borderRadius={'12px'} h={'150px'} w={'200px'} textAlign={'center'} fontSize={'20px'} _hover={{
             textStyle: 'none',
 
           }}  color={'white'} >

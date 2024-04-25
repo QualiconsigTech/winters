@@ -6,7 +6,7 @@ import Qualilogo from '../public/QualiconsigLogo.png'
 function App() {
 
   return (
-    <Flex w={'100vw'} justify={'center'}  h={'100vh'} bg={'#022144'}>
+    <Flex w={'100vw'} justify={'center'}  h={'100vh'} bg={'#0D2434'}>
       <Flex w={'80%'} >
         <Flex h={'15vh'} >
           <Flex align={'center'}  gap={4} >
@@ -15,10 +15,10 @@ function App() {
           </Flex>
         </Flex>
         <Flex flexDir={'column'} justify={'center'} gap={7}>
-          <Flex justify={'center'} borderRadius={'10px'} align={'center'} color={'white'} fontSize={'20px'} fontWeight={'650'} bg={'#000'} h={'60px'} alignContent={'center'} w={'250px'} p={2}>
+          <Flex justify={'center'} borderRadius={'10px'} align={'center'} color={'white'} fontSize={'20px'} fontWeight={'650'} bg={'#081D2B'} h={'60px'} alignContent={'center'} w={'250px'} p={2}>
             <Link to='/producao'>Qualiconsig</Link>
           </Flex>
-          <Flex justify={'center'} borderRadius={'10px'} align={'center'} color={'white'} fontSize={'20px'} fontWeight={'650'} bg={'#000'} h={'60px'} alignContent={'center'} w={'250px'} p={2}> 
+          <Flex justify={'center'} borderRadius={'10px'} align={'center'} color={'white'} fontSize={'20px'} fontWeight={'650'} bg={'#081D2B'} h={'60px'} alignContent={'center'} w={'250px'} p={2}> 
             <Link  to={'/Parceiros'}>Parceiros</Link>
           </Flex>
         </Flex>
