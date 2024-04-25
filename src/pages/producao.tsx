@@ -1,5 +1,6 @@
 import { Flex, Text } from "@chakra-ui/react"
 import { Link } from "react-router-dom"
+import Qualilogo from '../../public/QualiconsigLogo.png'
 
 const Producao = () => {
 
@@ -9,7 +10,7 @@ const Producao = () => {
       <Link  to="/" ></Link>
       <Flex h={'10vh'} align={'center'}>
         <Flex align={'center'} gap={2}>
-            <img src='../public/QualiconsigLogo.png'/>
+            <img src={Qualilogo}/>
             <Text fontSize={'25px'}  color={'white'}>Produção</Text>
         </Flex>
       </Flex>

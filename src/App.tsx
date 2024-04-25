@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import './App.css'
 import { Flex,  Text } from '@chakra-ui/react'
-
+import Qualilogo from '../public/QualiconsigLogo.png'
 
 function App() {
 
@@ -10,7 +10,7 @@ function App() {
       <Flex w={'80%'} >
         <Flex h={'15vh'} >
           <Flex align={'center'}  gap={4} >
-            <img src='../public/QualiconsigLogo.png'/>
+            <img src={Qualilogo}/>
             <Text textAlign={'center'} fontSize={'25px'} fontFamily={'poppins'} color={'white'} fontWeight={'650'}>Relatorios</Text>
           </Flex>
         </Flex>
