@@ -1,27 +1,37 @@
-import { Flex, Text } from "@chakra-ui/react"
+import { Box, Flex, ListItem, Text, UnorderedList } from "@chakra-ui/react"
 import { Link } from "react-router-dom"
 import Qualilogo from '../../public/QualiconsigLogo.png'
 
 const Producao = () => {
 
   return (
-    <Flex w={'100vw'} justify={'center'}  h={'100vh'} bg={'#0D2434'}>
-    <Flex w={'80%'}  >
-      <Link  to="/" ></Link>
-      <Flex h={'10vh'} align={'center'}>
-        <Flex align={'center'} gap={2}>
-            <img src={Qualilogo}/>
-            <Text fontSize={'25px'}  color={'white'}>Produção</Text>
+    <Flex bg={'100vw'} h={'100vh'} bgColor='#0D2434'>
+    <Flex flexDir={'column'} w={'90%'}  margin={'0 auto'} mt={'20px'}>
+      
+
+      <Flex align='center' h='15vh'>
+        <Box>
+          <img src={Qualilogo} alt="logo" />
+        </Box>
+          <UnorderedList  display={'flex'} gap={5} style={{listStyle:'none'}}>
+            <ListItem color={'white'}>
+              <Link to={'/producao'}>Qualiconsig</Link>
+            </ListItem>
+            <ListItem color={'white'}>
+              <Link to={'/Parceiros'}>Parceiros</Link>
+            </ListItem>
+            
+          </UnorderedList>
         </Flex>
-      </Flex>
-      <Flex align={'center'}>
-      <Flex  bg={'#081D2B'} color={'white'} p={5} borderRadius={'14px'} _hover={{
-            bg: '#0c344e'
-          }} transition={'all ease 0.2s'}>
-        <Link target="_blank" to="https://app.powerbi.com/reportEmbed?reportId=e01cab67-3e49-415d-8374-58d8207e4a7c&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e">Ranking Diario</Link>
-      </Flex>
-      </Flex>
+
+        <Flex ml={'20px'} h={'40vh'} align={'center'} >
+          <Flex justify={'center'} fontSize={'20px'} align={'center'} bg={'#081D2B'} borderRadius={'10px'} transition={'all ease 0.2s'} h={'150px'} w={'200px'} _hover={{bg: '#0d3149'}} p={5} color={'white'}>
+            <Link to={'https://app.powerbi.com/reportEmbed?reportId=e01cab67-3e49-415d-8374-58d8207e4a7c&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}>Ranking Diario</Link>
+          </Flex>
+        </Flex>
+
     </Flex>
+    
   </Flex>
   )
 }
