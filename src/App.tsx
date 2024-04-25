@@ -1,5 +1,6 @@
+import { Link } from 'react-router-dom'
 import './App.css'
-import { Box, Flex, Image, Link, Text } from '@chakra-ui/react'
+import { Box, Flex, Image, Text } from '@chakra-ui/react'
 
 
 function App() {
@@ -14,17 +15,11 @@ function App() {
           </Flex>
         </Flex>
         <Flex flexDir={'column'} justify={'center'} gap={7}>
-          <Box w={'35vw'}>
-            <Link transition={'all ease 0.2s'} href={'/producao'} _hover={{
-              textStyle: 'none',
-              backgroundColor: '#768485'
-            }}  bg={'#8f9d9e'} borderRadius={'7px'} p={2}>Qualiconsig Produção</Link>
+          <Box w={'15vw'}  bg={'#45474b'} color={'white'}>
+            <Link to='/producao'>Qualiconsig Produção</Link>
           </Box>
-          <Box w={'35vw'}> 
-            <Link transition={'all ease 0.2s'} _hover={{
-              textStyle: 'none',
-              backgroundColor: '#768485'
-            }} p={2} borderRadius={'7px'} bg={'#8f9d9e'} href={'/Parceiros'}>Qualiconsig Parceiros</Link>
+          <Box w={'15vw'}  bg={'#45474b'} color={'white'}> 
+            <Link  to={'/Parceiros'}>Qualiconsig Parceiros</Link>
           </Box>
         </Flex>
       </Flex>
