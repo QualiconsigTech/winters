@@ -2,6 +2,8 @@ import { Link } from 'react-router-dom'
 import './App.css'
 import { Box, Flex,  ListItem, UnorderedList } from '@chakra-ui/react'
 import Qualilogo from '../public/QualiconsigLogo.png'
+import Mask from '../src/assets/mask.png'
+import Bi from '../src/assets/birem.png'
 
 function App() {
 
@@ -31,9 +33,12 @@ function App() {
             </UnorderedList>
           </Flex>
 
-          <Flex >
-            <Box>
-
+          <Flex w={'60%'} margin={'0 auto'} justify={'space-between'} h={'full'} align={'center'}>
+            <Box w={'300px'}>
+              <img src={Mask}/>
+            </Box>
+            <Box w={'300px'}>
+              <img src={Bi} alt="" />
             </Box>
           </Flex>
 
