@@ -1,4 +1,4 @@
-import { Box, Flex, Icon, Image, Link, Text } from "@chakra-ui/react"
+import { Flex, Icon, Image, Link, Text } from "@chakra-ui/react"
 import { MdKeyboardArrowLeft } from "react-icons/md"
 
 const Producao = () => {
