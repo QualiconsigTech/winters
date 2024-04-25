@@ -11,14 +11,20 @@ function App() {
         
 
         <Flex align='center' h='15vh'>
-          <Box>
+        <Box cursor={'pointer'}>
+          <Link to={'/'}>
             <img src={Qualilogo} alt="logo" />
-          </Box>
+          </Link>
+        </Box>
             <UnorderedList  display={'flex'} gap={5} style={{listStyle:'none'}}>
-              <ListItem color={'white'}>
+              <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
+                color: '#fff'
+              }}>
                 <Link to={'/producao'}>Qualiconsig</Link>
               </ListItem>
-              <ListItem color={'white'}>
+              <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
+                color: '#fff'
+              }}>
                 <Link to={'/Parceiros'}>Parceiros</Link>
               </ListItem>
               
