@@ -1,7 +1,6 @@
 import {  Box, Flex, ListItem, UnorderedList } from "@chakra-ui/react"
 import Qualilogo from '../../public/QualiconsigLogo.png'
 import { Link } from "react-router-dom"
-import { useEffect } from "react";
 
 const Parceiros = () => {
   
