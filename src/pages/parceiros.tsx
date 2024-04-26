@@ -33,7 +33,7 @@ const Parceiros = () => {
 
         <Flex ml={'20px'} h={'40vh'} align={'center'}  gap={4}>
           <Flex cursor='pointer' justify={'center'} fontSize={'20px'} align={'center'} bg={'#0D2434'} borderRadius={'10px'} transition={'all ease 0.2s'}  _hover={{bg: '#02578f'}} p={5} color={'white'}>
-            <Link  to={'https://app.powerbi.com/reportEmbed?reportId=e9eb89fd-43a0-40e1-b5dd-ff89fbfd72b9&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060'} style={{
+            <Link  to={'https://app.powerbi.com/reportEmbed?reportId=2a920037-28ea-4077-b31b-2f3f0fd03c9f&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060'} style={{
               height: '150px',
                width: '200px',
                display: 'flex',
@@ -48,7 +48,7 @@ const Parceiros = () => {
              display: 'flex',
              justifyContent: 'center',
              alignItems: 'center'
-            }}  target="_blank" >Visão Bancos</Link>
+            }}  target="_blank" >Visão Empresas</Link>
           </Flex>
         </Flex>
 
