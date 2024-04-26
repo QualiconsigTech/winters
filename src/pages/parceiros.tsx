@@ -6,7 +6,7 @@ const Parceiros = () => {
 
 
   return (
-    <Flex bg={'100vw'} h={'100vh'} bgColor='#0D2434'>
+    <Flex bg={'100vw'} h={'100vh'} bgColor='#0d3149'>
     <Flex flexDir={'column'} w={'90%'}  margin={'0 auto'} mt={'20px'}>
       
 
@@ -32,11 +32,23 @@ const Parceiros = () => {
         </Flex>
 
         <Flex ml={'20px'} h={'40vh'} align={'center'}  gap={4}>
-          <Flex cursor='pointer' justify={'center'} fontSize={'20px'} align={'center'} bg={'#081D2B'} borderRadius={'10px'} transition={'all ease 0.2s'} h={'150px'} w={'200px'} _hover={{bg: '#0d3149'}} p={5} color={'white'}>
-            <Link  to={'https://app.powerbi.com/reportEmbed?reportId=e9eb89fd-43a0-40e1-b5dd-ff89fbfd72b9&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060'}  target="_blank" >Visão Bancos</Link>
+          <Flex cursor='pointer' justify={'center'} fontSize={'20px'} align={'center'} bg={'#0D2434'} borderRadius={'10px'} transition={'all ease 0.2s'}  _hover={{bg: '#02578f'}} p={5} color={'white'}>
+            <Link  to={'https://app.powerbi.com/reportEmbed?reportId=e9eb89fd-43a0-40e1-b5dd-ff89fbfd72b9&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060'} style={{
+              height: '150px',
+               width: '200px',
+               display: 'flex',
+               justifyContent: 'center',
+               alignItems: 'center'
+            }}  target="_blank" >Visão Bancos</Link>
           </Flex>
-          <Flex cursor='pointer' justify={'center'} fontSize={'20px'} align={'center'} bg={'#081D2B'} borderRadius={'10px'} transition={'all ease 0.2s'} h={'150px'} w={'200px'} _hover={{bg: '#0d3149'}} p={5} color={'white'}>
-            <Link    to={'https://app.powerbi.com/reportEmbed?reportId=52d5ad56-d742-4500-8712-cc8dc0916ff6&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060'}  target="_blank" >Visão Bancos</Link>
+          <Flex cursor='pointer' justify={'center'} fontSize={'20px'} align={'center'} bg={'#0D2434'} borderRadius={'10px'} transition={'all ease 0.2s'} _hover={{bg: '#02578f'}} p={5} color={'white'}>
+            <Link to={'https://app.powerbi.com/reportEmbed?reportId=52d5ad56-d742-4500-8712-cc8dc0916ff6&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060'} style={{
+             height: '150px',
+             width: '200px',
+             display: 'flex',
+             justifyContent: 'center',
+             alignItems: 'center'
+            }}  target="_blank" >Visão Bancos</Link>
           </Flex>
         </Flex>
 
