@@ -10,7 +10,7 @@ export const router = createBrowserRouter([
     element: <App />,
   },
   {
-    path: "/producao",
+    path: "/Qualiconsig",
     element: <Producao/>
   },
   {
