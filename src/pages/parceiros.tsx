@@ -18,11 +18,11 @@ const Parceiros = () => {
         </Box>
           <UnorderedList  display={'flex'} gap={5} style={{listStyle:'none'}}>
             <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
-                color: '#838383'
+                color: '#fafafa'
               }}>
               <Link to={'/Qualiconsig'}>Qualiconsig</Link>
             </ListItem>
-            <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
+            <ListItem color={'#ffffff'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
                 color: '#fff'
               }}>
               <Link to={'/Parceiros'}>Parceiros</Link>

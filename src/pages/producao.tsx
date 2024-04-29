@@ -16,7 +16,7 @@ const Producao = () => {
           </Link>
         </Box>
           <UnorderedList  display={'flex'} gap={5} style={{listStyle:'none'}}>
-            <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
+            <ListItem color={'#ffffff'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
                 color: '#fff'
               }}>
               <Link to={'/Qualiconsig'}>Qualiconsig</Link>
