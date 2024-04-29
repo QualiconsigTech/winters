@@ -22,7 +22,7 @@ function App() {
               <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
                 color: '#fff'
               }}>
-                <Link   to={'/producao'}  >Qualiconsig</Link>
+                <Link   to={'/Qualiconsig'}  >Qualiconsig</Link>
               </ListItem>
               <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
                 color: '#fff'
