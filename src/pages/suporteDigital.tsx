@@ -16,7 +16,7 @@ const SuporteDigital = () => {
           </Link>
         </Box>
           <UnorderedList  display={'flex'} gap={5} style={{listStyle:'none'}}>
-            <ListItem color={'#ffffff'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
+            <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
                 color: '#fff'
               }}>
               <Link to={'/Qualiconsig'}>Qualiconsig</Link>
@@ -26,10 +26,10 @@ const SuporteDigital = () => {
               }}>
               <Link to={'/Parceiros'}>Parceiros</Link>
             </ListItem>
-             <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
+             <ListItem color={'#fff'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
                 color: '#fff'
               }}>
-                <Link   to={'/suporteDigital'}>Suporte Digital</Link>
+                <Link   to={'/suporteDigital'}>Digital</Link>
               </ListItem>
             
             
