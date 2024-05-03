@@ -52,7 +52,18 @@ const Parceiros = () => {
              textAlign: 'center'
             }}  target="_blank" >Inbursa Visão Empresas</Link>
           </Flex>
+          <Flex cursor='pointer' justify={'center'} fontSize={'20px'} align={'center'} bg={'#0D2434'} borderRadius={'10px'} transition={'all ease 0.2s'} _hover={{bg: '#02578f'}} p={5} color={'white'}>
+            <Link to={'https://app.powerbi.com/reportEmbed?reportId=68876870-bef1-43a9-80da-1f9f693a745f&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060'} style={{
+             height: '150px',
+             width: '200px',
+             display: 'flex',
+             justifyContent: 'center',
+             alignItems: 'center',
+             textAlign: 'center'
+            }}  target="_blank" >Top 10 | Diario</Link>
+          </Flex>
         </Flex>
+        
 
     </Flex>
     

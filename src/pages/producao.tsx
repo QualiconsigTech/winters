@@ -40,8 +40,8 @@ const Producao = () => {
                alignItems: 'center'
             }} target="_blank">Ranking Diario</Link>
           </Flex>
-         
-          
+            
+            
         </Flex>
 
     </Flex>
