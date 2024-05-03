@@ -27,6 +27,11 @@ const Parceiros = () => {
               }}>
               <Link to={'/Parceiros'}>Parceiros</Link>
             </ListItem>
+            <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
+                color: '#fff'
+              }}>
+                <Link   to={'/suporteDigital'}>Digital</Link>
+              </ListItem>
             
           </UnorderedList>
         </Flex>

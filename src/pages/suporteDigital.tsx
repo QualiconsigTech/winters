@@ -2,7 +2,7 @@ import { Box, Flex, ListItem, UnorderedList } from "@chakra-ui/react"
 import { Link } from "react-router-dom"
 import Qualilogo from '../../public/QualiconsigLogo.png'
 
-const Producao = () => {
+const SuporteDigital = () => {
 
   return (
     <Flex bg={'100vw'} h={'100vh'} bgColor='#0d3149'> 
@@ -29,8 +29,9 @@ const Producao = () => {
             <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
                 color: '#fff'
               }}>
-                <Link   to={'/Parceiros'}>Digital</Link>
+                <Link   to={'https://app.powerbi.com/reportEmbed?reportId=82fd01d8-2aa7-458a-bc44-2e35be9f4634&autoAuth=true&ctid=75cf0ea6-2f10-4408-b1d7-c48910e155ad'}>Produtividade</Link>
               </ListItem>
+            
             
           </UnorderedList>
         </Flex>
@@ -55,4 +56,4 @@ const Producao = () => {
   )
 }
 
-export default Producao
+export default SuporteDigital
