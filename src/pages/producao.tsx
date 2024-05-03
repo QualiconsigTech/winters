@@ -29,7 +29,7 @@ const Producao = () => {
             <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
                 color: '#fff'
               }}>
-                <Link   to={'/Parceiros'}>Digital</Link>
+                <Link   to={'/suporteDigital'}>Digital</Link>
               </ListItem>
             
           </UnorderedList>
