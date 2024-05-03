@@ -26,10 +26,10 @@ const SuporteDigital = () => {
               }}>
               <Link to={'/Parceiros'}>Parceiros</Link>
             </ListItem>
-            <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
+             <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
                 color: '#fff'
               }}>
-                <Link   to={'https://app.powerbi.com/reportEmbed?reportId=82fd01d8-2aa7-458a-bc44-2e35be9f4634&autoAuth=true&ctid=75cf0ea6-2f10-4408-b1d7-c48910e155ad'}>Produtividade</Link>
+                <Link   to={'/suporteDigital'}>Suporte Digital</Link>
               </ListItem>
             
             
@@ -38,13 +38,13 @@ const SuporteDigital = () => {
 
         <Flex ml={'20px'} h={'40vh'} align={'center'} gap={4}>
           <Flex cursor='pointer' justify={'center'} fontSize={'20px'} align={'center'} bg={'#0D2434'} borderRadius={'10px'} transition={'all ease 0.2s'}  _hover={{bg: '#02578f'}} p={5} color={'white'}>
-            <Link to={'https://app.powerbi.com/reportEmbed?reportId=e01cab67-3e49-415d-8374-58d8207e4a7c&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'} style={{
+            <Link to={'https://app.powerbi.com/reportEmbed?reportId=82fd01d8-2aa7-458a-bc44-2e35be9f4634&autoAuth=true&ctid=75cf0ea6-2f10-4408-b1d7-c48910e155ad'} style={{
                height: '150px',
                width: '200px',
                display: 'flex',
                justifyContent: 'center',
                alignItems: 'center'
-            }} target="_blank">Ranking Diario</Link>
+            }} target="_blank">Produtividade</Link>
           </Flex>
             
             
