@@ -44,7 +44,7 @@ const SuporteDigital = () => {
                display: 'flex',
                justifyContent: 'center',
                alignItems: 'center'
-            }} target="_blank">Performace</Link>
+            }} target="_blank">Performance</Link>
           </Flex>
             
             
