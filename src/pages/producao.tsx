@@ -45,6 +45,16 @@ const Producao = () => {
                alignItems: 'center'
             }} target="_blank">Ranking Diario</Link>
           </Flex>
+
+          <Flex cursor='pointer' justify={'center'} fontSize={'20px'} align={'center'} bg={'#0D2434'} borderRadius={'10px'} transition={'all ease 0.2s'}  _hover={{bg: '#02578f'}} p={5} color={'white'}>
+            <Link to={'https://app.powerbi.com/reportEmbed?reportId=a4078798-7440-46e8-bd9f-3cbc58dd1669&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'} style={{
+               height: '150px',
+               width: '200px',
+               display: 'flex',
+               justifyContent: 'center',
+               alignItems: 'center'
+            }} target="_blank">Assinaturas</Link>
+          </Flex>
           
             
             
