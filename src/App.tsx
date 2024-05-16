@@ -8,7 +8,7 @@ import Bi from '../src/assets/birem.png'
 function App() {
 
   return (
-    <Flex bg={'100vw'} h={'100vh'} bgColor='#0d3149'>
+    <Flex bg={'100vw'} h={'100vh'} bgColor='#356e94'>
       <Flex flexDir={'column'} w={'90%'}  margin={'0 auto'} mt={'20px'}>
         
 
