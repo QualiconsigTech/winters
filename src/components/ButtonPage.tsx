@@ -13,7 +13,11 @@ export const ButtonPage = ({ text, link }: any) => {
       transition={"all ease 0.2s"}
       boxShadow={'9px 3px 20px -3px rgba(51, 53, 53, 0.75)'}
       textAlign={'center'}
-      _hover={{ bg: "#02578f" }}
+      _hover={{ 
+        bg: "#02578f",
+        boxShadow: '6px 4px 11px 0px rgba(0,0,0,0.75)'
+      
+      }}
       p={5}
       color={"white"}
     >
