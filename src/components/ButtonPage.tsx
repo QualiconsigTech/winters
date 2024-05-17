@@ -15,7 +15,8 @@ export const ButtonPage = ({ text, link }: any) => {
       textAlign={'center'}
       _hover={{ 
         bg: "#02578f",
-        boxShadow: '6px 4px 11px 0px rgba(0,0,0,0.75)'
+        boxShadow: '6px 4px 11px 0px rgba(0,0,0,0.75)',
+        padding: 6
       
       }}
       p={5}

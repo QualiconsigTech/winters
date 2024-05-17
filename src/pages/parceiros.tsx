@@ -8,7 +8,7 @@ const Parceiros = () => {
 
   return (
     <Flex bg={'100vw'} h={'100vh'} bgColor='#356e94'>
-    <Flex flexDir={'column'} w={'90%'}  margin={'0 auto'} mt={'20px'}>
+    <Flex flexDir={'column'}   w={'97%'}  margin={'0 auto'} mt={'1px'}>
       <Flex align='center' h='15vh'>
       <Box cursor={'pointer'}>
           <Link to={'/'}>
