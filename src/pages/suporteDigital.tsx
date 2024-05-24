@@ -40,6 +40,7 @@ const SuporteDigital = () => {
         <Flex ml={'20px'} h={'40vh'} align={'center'} gap={4}>
           <ButtonPage text={'Performance'} link={'https://app.powerbi.com/reportEmbed?reportId=82fd01d8-2aa7-458a-bc44-2e35be9f4634&autoAuth=true&ctid=75cf0ea6-2f10-4408-b1d7-c48910e155ad'}/>
           <ButtonPage text={'Assinaturas'} link={'https://app.powerbi.com/reportEmbed?reportId=8dc0ca85-6e6d-4a40-b7f2-a42b55901006&autoAuth=true&ctid=75cf0ea6-2f10-4408-b1d7-c48910e155ad'}/>
+          <ButtonPage text="Projeto Mobile"></ButtonPage>
         </Flex>
 
     </Flex>
