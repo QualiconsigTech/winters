@@ -32,10 +32,11 @@ const Parceiros = () => {
           </UnorderedList>
         </Flex>
         <Flex ml={'20px'} h={'40vh'} align={'center'} gap={4}>
-          <ButtonPage text={'Inbursa Visão Bancos'} link={'https://app.powerbi.com/reportEmbed?reportId=2a920037-28ea-4077-b31b-2f3f0fd03c9f&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060'}/> 
-          <ButtonPage text={'Inbursa Visão Empresas'} link={'https://app.powerbi.com/reportEmbed?reportId=52d5ad56-d742-4500-8712-cc8dc0916ff6&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060'}/>
-          <ButtonPage text={'Top 10 | Diario'} link={'https://app.powerbi.com/reportEmbed?reportId=68876870-bef1-43a9-80da-1f9f693a745f&autoAuth=true&ctid=ed734db2-bf1e-48a2-b516-1c83ccf1f060'}/>
+          <ButtonPage text={'Inbursa Visão Bancos'} link={'https://app.powerbi.com/reportEmbed?reportId=d17ec5ad-fa5e-4b20-9eb1-5a4cc32ea22f&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/> 
+          <ButtonPage text={'Inbursa Visão Empresas'} link={'https://app.powerbi.com/reportEmbed?reportId=6fe7dd93-995b-4de6-b2e5-3defa597706a&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
+          <ButtonPage text={'Top 10 | Diario'} link={'https://app.powerbi.com/reportEmbed?reportId=7c4aa573-dc1d-44d6-9085-698053139d82&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
           <ButtonPage text={'Q20'} link={'https://app.powerbi.com/reportEmbed?reportId=fa06a7f7-0ac6-4a6f-a04d-025d32d2a45b&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
+          
         </Flex>
     </Flex>
   </Flex>
