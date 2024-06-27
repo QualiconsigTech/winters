@@ -38,6 +38,7 @@ const Producao = () => {
           <ButtonPage text={'Assinaturas'} link={'https://app.powerbi.com/reportEmbed?reportId=a4078798-7440-46e8-bd9f-3cbc58dd1669&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
           <ButtonPage text={'Rank QualiSpeed'} link={'https://app.powerbi.com/reportEmbed?reportId=033bbbf8-53b2-4b26-83a5-1be3067b95a2&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
           <ButtonPage text={'Rank + Cip'} link={'https://app.powerbi.com/reportEmbed?reportId=a2850d01-30a1-4fae-b335-e392a2f69e47&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
+          <ButtonPage text={'Rank Historico'} link={'https://app.powerbi.com/reportEmbed?reportId=b1655a22-c1b5-40d1-9c7d-3eef33303a08&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
         </Flex>
     </Flex>
   </Flex>
