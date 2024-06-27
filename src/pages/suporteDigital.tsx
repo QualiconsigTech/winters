@@ -1,4 +1,4 @@
-import { Box, Flex, ListItem, UnorderedList } from "@chakra-ui/react"
+import { Box, Flex, ListItem, SimpleGrid, UnorderedList } from "@chakra-ui/react"
 import { Link } from "react-router-dom"
 import Qualilogo from '../../public/QualiconsigLogo.png'
 import { ButtonPage } from "../components/ButtonPage"
@@ -38,9 +38,10 @@ const SuporteDigital = () => {
         </Flex>
 
         <Flex ml={'20px'} h={'40vh'} align={'center'} gap={4}>
-          <ButtonPage text={'Performance'} link={'https://app.powerbi.com/reportEmbed?reportId=a5f5e577-eba8-40c4-bf77-9ba018e570b9&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
-          <ButtonPage text={'Assinaturas'} link={'https://app.powerbi.com/reportEmbed?reportId=a4078798-7440-46e8-bd9f-3cbc58dd1669&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
-          
+          <SimpleGrid columns={4} spacing={4} ml={'20px'} h={'40vh'}>
+            <ButtonPage text={'Performance'} link={'https://app.powerbi.com/reportEmbed?reportId=a5f5e577-eba8-40c4-bf77-9ba018e570b9&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
+            <ButtonPage text={'Assinaturas'} link={'https://app.powerbi.com/reportEmbed?reportId=a4078798-7440-46e8-bd9f-3cbc58dd1669&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
+          </SimpleGrid>
         </Flex>
 
     </Flex>
