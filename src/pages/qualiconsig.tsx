@@ -34,7 +34,7 @@ const Producao = () => {
           <ButtonPage text={'Rank Historico'} link={'https://app.powerbi.com/reportEmbed?reportId=b1655a22-c1b5-40d1-9c7d-3eef33303a08&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'} />
           <ButtonPage text={'Assinaturas'} link={'https://app.powerbi.com/reportEmbed?reportId=a4078798-7440-46e8-bd9f-3cbc58dd1669&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'} />
           <ButtonPage text={'Retorno Cip'} link={'https://app.powerbi.com/reportEmbed?reportId=b55d49ce-f31a-4fe5-bf82-7b8cceeda7a6&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'} />
-
+          <ButtonPage text={'Esteira Cip'} link={'https://app.powerbi.com/reportEmbed?reportId=1e53fc7a-1608-4d8a-9754-b6dd9761de62&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
         </SimpleGrid>
         </Flex>
       </Flex>
