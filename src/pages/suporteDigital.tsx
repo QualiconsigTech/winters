@@ -41,7 +41,7 @@ const SuporteDigital = () => {
           <SimpleGrid columns={4} spacing={4} ml={'20px'} h={'40vh'}>
             <ButtonPage text={'Performance'} link={'https://app.powerbi.com/reportEmbed?reportId=a5f5e577-eba8-40c4-bf77-9ba018e570b9&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
             <ButtonPage text={'Assinaturas'} link={'https://app.powerbi.com/reportEmbed?reportId=a4078798-7440-46e8-bd9f-3cbc58dd1669&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
-              <ButtonPage text={'Esteira Cip'} link={'https://app.powerbi.com/reportEmbed?reportId=c8edc0fc-6e7e-4f64-84eb-5d78da71fdc0&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
+            <ButtonPage text={'Esteira Cip'} link={'https://app.powerbi.com/reportEmbed?reportId=c8edc0fc-6e7e-4f64-84eb-5d78da71fdc0&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
           </SimpleGrid>
         </Flex>
 
