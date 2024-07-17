@@ -28,7 +28,7 @@ const Producao = () => {
         <Flex  ml={'20px'} h={'40vh'} align={'center'} gap={4}>
         <SimpleGrid columns={4} spacing={4} ml={'20px'} h={'40vh'} >
           <ButtonPage text={'Rank Diario'} link={'https://app.powerbi.com/reportEmbed?reportId=e01cab67-3e49-415d-8374-58d8207e4a7c&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'} />
-          <ButtonPage text={'Rank Diario + Cip'} link={'https://app.powerbi.com/reportEmbed?reportId=c4122e6e-f923-4e10-ba6c-b5a117af289f&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'} />
+          <ButtonPage text={'Rank Diario + Cip'} link={'https://app.powerbi.com/reportEmbed?reportId=974d61ed-d9b6-4c0e-8517-97cca2ba9df8&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'} />
           <ButtonPage text={'Rank QualiSpeed'} link={'https://app.powerbi.com/reportEmbed?reportId=033bbbf8-53b2-4b26-83a5-1be3067b95a2&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'} />
           <ButtonPage text={'Rank QualiSpeed + Cip'} link={'https://app.powerbi.com/reportEmbed?reportId=f8751e97-6995-4e00-b58f-c12c9f041ceb&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
           <ButtonPage text={'Rank Historico'} link={'https://app.powerbi.com/reportEmbed?reportId=b1655a22-c1b5-40d1-9c7d-3eef33303a08&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'} />
