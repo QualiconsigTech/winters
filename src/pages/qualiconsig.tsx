@@ -36,6 +36,7 @@ const Producao = () => {
           <ButtonPage text={'Retorno Cip'} link={'https://app.powerbi.com/reportEmbed?reportId=b55d49ce-f31a-4fe5-bf82-7b8cceeda7a6&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'} />
           <ButtonPage text={'Esteira Cip'} link={'https://app.powerbi.com/reportEmbed?reportId=1e53fc7a-1608-4d8a-9754-b6dd9761de62&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e'}/>
           <ButtonPage text={`Esteiras`} link={`https://app.powerbi.com/reportEmbed?reportId=7f3c4d43-99dd-42a9-8812-97cfa2942097&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e`}/>
+          <ButtonPage text={"Produção Diária"} link={"https://app.powerbi.com/reportEmbed?reportId=cf566c7a-b4d4-4d8f-a60f-c48be8a4a807&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"}/>
         </SimpleGrid>
         </Flex>
       </Flex>
