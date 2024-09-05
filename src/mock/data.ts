@@ -27,6 +27,6 @@ export const Digital = [
 ]
 
 export const Treinamento = [
-  {title: "", url: ""},
+  {title: "Em breve...", url: ""},
  
 ]
