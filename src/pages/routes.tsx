@@ -3,6 +3,8 @@ import App from '../App'
 import Producao from "./qualiconsig";
 import Parceiros from "./parceiros";
 import SuporteDigital from "./suporteDigital";
+import Global from "./global";
+import Qualiconsig from "./qualiconsig";
 
 
 export const router = createBrowserRouter([
@@ -12,15 +14,19 @@ export const router = createBrowserRouter([
   },
   {
     path: "/Qualiconsig",
-    element: <Producao/>
+    element: <Qualiconsig/>
   },
   {
     path: "/Parceiros",
     element: <Parceiros/>
   },
   {
-    path: "/suporteDigital",
+    path: "/Digital",
     element: <SuporteDigital/>
+  },
+  {
+    path: "/Global",
+    element: <Global/>
   }
 
 ]);
