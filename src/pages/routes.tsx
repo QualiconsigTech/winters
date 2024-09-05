@@ -25,7 +25,7 @@ export const router = createBrowserRouter([
     element: <SuporteDigital/>
   },
   {
-    path: "/Global",
+    path: "/Treinamento",
     element: <Global/>
   }
 

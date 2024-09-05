@@ -60,6 +60,14 @@ export const Header = () => {
             Digital
           </Text>
           </Link>
+          <Link to={'/Treinamento'}>
+          <Text
+            color={isCurrentPage("/Treinamento") ? "yellow.400" : "white"}
+            fontWeight={isCurrentPage("/Treinamento") ? "bold" : "normal"}
+          >
+            Treinamento
+          </Text>
+          </Link>
         </Flex>
       ) : (
         <Collapse in={isOpen}>
@@ -91,6 +99,14 @@ export const Header = () => {
               Digital
             </Text>
             </Link>
+            <Link to={'/Treinamento'}>
+          <Text
+            color={isCurrentPage("/Treinamento") ? "yellow.400" : "white"}
+            fontWeight={isCurrentPage("/Treinamento") ? "bold" : "normal"}
+          >
+            Treinamento
+          </Text>
+          </Link>
           </Flex>
         </Collapse>
       )}

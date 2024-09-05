@@ -35,6 +35,11 @@ function App() {
                 <Link   to={'/Digital'}>Digital</Link>
               </ListItem>
               
+              <ListItem color={'#ccc'} cursor={'pointer'} transition={'all ease 0.2s'} _hover={{
+                color: '#fff'
+              }}>
+                <Link   to={'/Treinamento'}>Treinamento</Link>
+              </ListItem>
             </UnorderedList>
           </Flex>
 
