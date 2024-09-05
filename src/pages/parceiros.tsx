@@ -22,7 +22,7 @@ export default function Parceiros () {
       <Header/>
       <PageComponent>
         {getInfos?.map((items, index) => (
-          <ButtonPage text={items.title} link={items.url} />
+          <ButtonPage text={items.title} link={items.url} key={index} />
         ))}
       </PageComponent>
     </Box>
