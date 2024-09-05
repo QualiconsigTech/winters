@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from '../App'
-import Producao from "./qualiconsig";
+
 import Parceiros from "./parceiros";
 import SuporteDigital from "./suporteDigital";
 import Global from "./global";

@@ -1,7 +1,6 @@
-import { Box, Flex, Text, IconButton, Collapse, useDisclosure, useBreakpointValue, MenuButton } from "@chakra-ui/react";
+import { Box, Flex, Text, IconButton, Collapse, useDisclosure, useBreakpointValue } from "@chakra-ui/react";
 import { Link, useLocation } from "react-router-dom";
 import Qualilogo from '../../../public/QualiconsigLogo.png';
-import { IoCloseCircleOutline } from "react-icons/io5";
 import { IoMdCloseCircleOutline } from "react-icons/io";
 import { CiMenuBurger } from "react-icons/ci";
 
