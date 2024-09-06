@@ -20,8 +20,8 @@ export const Header = () => {
     >
       <Flex align="center" justify="space-between" mb={4}>
         <Link to="/">
-        <Box>
-          <img src={Qualilogo} alt="logo" width="120px" />
+        <Box ml={'15px'} mt={'20px'}>
+          <img src={Qualilogo} alt="logo" />
         </Box>
         </Link>
         {!isDesktop && (
@@ -30,6 +30,8 @@ export const Header = () => {
             onClick={onToggle}
             aria-label="Toggle Navigation"
             variant="outline"
+            color={'white'}
+            cursor={'pointer'}
           />
         )}
       </Flex>

@@ -10,7 +10,7 @@
   margin: 0;
   padding: 0;
   background: rgb(19,28,37);
-  background: linear-gradient(38deg, rgba(19,28,37,1) 0%, rgba(11,38,55,1) 100%);
+  background: linear-gradient(38deg, rgb(10, 25, 43) 50%, rgb(30, 78, 107) 100%);
   background-repeat: no-repeat;
   min-height: 100vh;
   
