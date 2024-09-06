@@ -1,7 +1,5 @@
-import { Link } from 'react-router-dom'
 import './App.css'
-import { Box, Flex,  ListItem, UnorderedList } from '@chakra-ui/react'
-import Qualilogo from '../public/QualiconsigLogo.png'
+import { Box, Flex } from '@chakra-ui/react'
 import Mask from '../src/assets/mask.png'
 import Bi from '../src/assets/birem.png'
 import { Header } from './components/Header'
