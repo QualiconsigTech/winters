@@ -9,7 +9,7 @@ export const QualiconsigOutput = [
   {title: "Esteira CIP", url: "https://app.powerbi.com/reportEmbed?reportId=1e53fc7a-1608-4d8a-9754-b6dd9761de62&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Esteira", url: "https://app.powerbi.com/reportEmbed?reportId=7f3c4d43-99dd-42a9-8812-97cfa2942097&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Produção Diaria", url: "https://app.powerbi.com/reportEmbed?reportId=cf566c7a-b4d4-4d8f-a60f-c48be8a4a807&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
-  
+  {title: "Rank Historico", url: "https://app.powerbi.com/reportEmbed?reportId=0a50e7e5-e7fe-4d7e-a63c-105ff7d895bf&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
 ]
 
 export const Parceiros = [
