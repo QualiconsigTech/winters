@@ -26,6 +26,6 @@ export const Digital = [
 ]
 
 export const Treinamento = [
-  {title: "Em breve...", url: ""},
+  {title: "Acompanhamento novos consultores", url: "https://app.powerbi.com/reportEmbed?reportId=507c42e3-9359-46ed-b261-ca9892103df6&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
  
 ]
