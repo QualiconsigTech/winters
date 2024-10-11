@@ -14,7 +14,7 @@ export const QualiconsigOutput = [
 export const Parceiros = [
   {title: "Inbursa visão Bancos", url: "https://app.powerbi.com/reportEmbed?reportId=d17ec5ad-fa5e-4b20-9eb1-5a4cc32ea22f&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Inbursa Visão Empresas", url: "https://app.powerbi.com/reportEmbed?reportId=6fe7dd93-995b-4de6-b2e5-3defa597706a&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
-  {title: "Top 10 | Diario", url: "https://app.powerbi.com/reportEmbed?reportId=4d16ebfa-364b-4937-a409-83245ee6a5f8&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
+  {title: "Top 10 | Diario", url: "https://app.powerbi.com/reportEmbed?reportId=bcbc2aad-b6a8-4fb6-8ca3-e5b6ad884e8b&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Q20", url: "https://app.powerbi.com/reportEmbed?reportId=326a765a-6781-40e5-86f8-732ad7f8b486&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Retorno CIP", url: "https://app.powerbi.com/reportEmbed?reportId=9f3742c6-591a-4b20-8150-2b0e2ea9f0b3&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"}
 ]
