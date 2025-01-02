@@ -17,7 +17,8 @@ export const Parceiros = [
   {title: "Top 10 | Diario", url: "https://app.powerbi.com/reportEmbed?reportId=bcbc2aad-b6a8-4fb6-8ca3-e5b6ad884e8b&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Q20", url: "https://app.powerbi.com/reportEmbed?reportId=326a765a-6781-40e5-86f8-732ad7f8b486&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Retorno CIP", url: "https://app.powerbi.com/reportEmbed?reportId=9f3742c6-591a-4b20-8150-2b0e2ea9f0b3&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
-  {title: "Digitação Diaria", url: "https://app.powerbi.com/reportEmbed?reportId=cf566c7a-b4d4-4d8f-a60f-c48be8a4a807&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"}
+  {title: "Digitação Diaria", url: "https://app.powerbi.com/reportEmbed?reportId=cf566c7a-b4d4-4d8f-a60f-c48be8a4a807&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
+  {title: "Rank Diario", url: "https://app.powerbi.com/reportEmbed?reportId=f4cd1d73-03dd-4d12-bc59-23e839851e59&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"}
 ]
 
 export const Digital = [
@@ -31,5 +32,5 @@ export const Treinamento = [
 ]
 
 export const Backoffice = [
-  {title: "VENDAS DIÁRIAS - PARCEIRO", url: "https://app.powerbi.com/reportEmbed?reportId=8517a9cc-6c27-45cc-8c9a-dd0bd5f3fd93&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"}
+  {title: "VENDAS DIÁRIAS - PARCEIRO", url: "https://app.powerbi.com/reportEmbed?reportId=8517a9cc-6c27-45cc-8c9a-dd0bd5f3fd93&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
 ]
