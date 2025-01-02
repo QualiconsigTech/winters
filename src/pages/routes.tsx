@@ -5,6 +5,7 @@ import Parceiros from "./parceiros";
 import SuporteDigital from "./suporteDigital";
 import Global from "./global";
 import Qualiconsig from "./qualiconsig";
+import Backoffice from "./backoffice";
 
 
 export const router = createBrowserRouter([
@@ -27,6 +28,10 @@ export const router = createBrowserRouter([
   {
     path: "/Treinamento",
     element: <Global/>
+  },
+  {
+    path: "/Backoffice",
+    element: <Backoffice/>
   }
 
 ]);

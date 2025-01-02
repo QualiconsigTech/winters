@@ -70,6 +70,14 @@ export const Header = () => {
             Treinamento
           </Text>
           </Link>
+          <Link to={'/Backoffice'}>
+          <Text
+            color={isCurrentPage("/Backoffice") ? "yellow.400" : "white"}
+            fontWeight={isCurrentPage("/Backoffice") ? "bold" : "normal"}
+          >
+            Backoffice
+          </Text>
+          </Link>
         </Flex>
       ) : (
         <Collapse in={isOpen}>
@@ -107,6 +115,14 @@ export const Header = () => {
             fontWeight={isCurrentPage("/Treinamento") ? "bold" : "normal"}
           >
             Treinamento
+          </Text>
+          </Link>
+          <Link to={'/Backoffice'}>
+          <Text
+            color={isCurrentPage("/Backoffice") ? "yellow.400" : "white"}
+            fontWeight={isCurrentPage("/Backoffice") ? "bold" : "normal"}
+          >
+            Backoffice
           </Text>
           </Link>
           </Flex>
