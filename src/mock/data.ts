@@ -9,7 +9,8 @@ export const QualiconsigOutput = [
   {title: "Retorno CIP", url: "https://app.powerbi.com/reportEmbed?reportId=b55d49ce-f31a-4fe5-bf82-7b8cceeda7a6&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Esteira CIP", url: "https://app.powerbi.com/reportEmbed?reportId=1e53fc7a-1608-4d8a-9754-b6dd9761de62&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Digitação Diaria", url: "https://app.powerbi.com/reportEmbed?reportId=cf566c7a-b4d4-4d8f-a60f-c48be8a4a807&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
-  {title: "PRODUÇÃO MARGEM E CARTÃO", url: "https://app.powerbi.com/reportEmbed?reportId=78f82242-3f9d-4825-975f-d150ba7af1f3&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"}
+  {title: "PRODUÇÃO MARGEM E CARTÃO", url: "https://app.powerbi.com/reportEmbed?reportId=78f82242-3f9d-4825-975f-d150ba7af1f3&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
+  {title: "Qualispeed 5.0", url: "https://app.powerbi.com/reportEmbed?reportId=135ce861-f878-4694-b5b6-50e2785bc7f2&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"}
 ]
 
 export const Parceiros = [
