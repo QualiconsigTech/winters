@@ -37,4 +37,5 @@ export const Treinamento = [
 export const Backoffice = [
   {title: "VENDAS DIÁRIAS - PARCEIRO", url: "https://app.powerbi.com/reportEmbed?reportId=8517a9cc-6c27-45cc-8c9a-dd0bd5f3fd93&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "ESTEIRA BACKOFFICE", url: "https://app.powerbi.com/reportEmbed?reportId=a07d536f-c676-4d0c-99d1-313ec0c511cc&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
+  {title: "¨¨¨¨", url: "https://app.powerbi.com/reportEmbed?reportId=a07d536f-c676-4d0c-99d1-313ec0c511cc&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
 ]
