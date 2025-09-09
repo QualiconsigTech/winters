@@ -20,7 +20,7 @@ export const Parceiros = [
   {title: "Q20", url: "https://app.powerbi.com/reportEmbed?reportId=326a765a-6781-40e5-86f8-732ad7f8b486&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Projeto Q20 V2 - Parceiros", url: "https://app.powerbi.com/reportEmbed?reportId=98dea945-8913-42da-9db3-07788bddf777&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Retorno CIP", url: "https://app.powerbi.com/reportEmbed?reportId=0c4fb576-b745-4402-9e38-a6d70403c335&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
-  {title: "Digitação Diaria", url: "https://app.powerbi.com/reportEmbed?reportId=cf566c7a-b4d4-4d8f-a60f-c48be8a4a807&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
+  {title: "Digitação Diaria", url: "https://app.powerbi.com/reportEmbed?reportId=ccff6aa1-5ac2-42d4-946a-7c9c9fb6e59e&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Rank Diario", url: "https://app.powerbi.com/reportEmbed?reportId=f4cd1d73-03dd-4d12-bc59-23e839851e59&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"}
 ]
 
