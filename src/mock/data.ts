@@ -1,7 +1,7 @@
 
 
 export const QualiconsigOutput = [
-  {title: "Ranking Diario", url: "https://app.powerbi.com/reportEmbed?reportId=b9daa400-74ff-405f-bc84-4a348ed385fa&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
+  {title: "Ranking Diario", url: "https://app.powerbi.com/reportEmbed?reportId=71e2ba62-f598-4605-ac3e-7ee5f4ff9fd1&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Ranking Diario + CIP", url: "https://app.powerbi.com/reportEmbed?reportId=75bf28fa-9396-48db-a6dd-d651220e76b0&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Rank Historico - 2025", url: "https://app.powerbi.com/reportEmbed?reportId=30e400ac-b050-48fd-a8a3-fea468e8c370&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Rank Historico - 2024", url: "https://app.powerbi.com/reportEmbed?reportId=0a50e7e5-e7fe-4d7e-a63c-105ff7d895bf&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
