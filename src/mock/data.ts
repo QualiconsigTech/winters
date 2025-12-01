@@ -2,7 +2,6 @@
 
 export const QualiconsigOutput = [
   {title: "Ranking Diario", url: "https://app.powerbi.com/reportEmbed?reportId=71e2ba62-f598-4605-ac3e-7ee5f4ff9fd1&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
-  {title: "Ranking Diario + CIP", url: "https://app.powerbi.com/reportEmbed?reportId=75bf28fa-9396-48db-a6dd-d651220e76b0&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Rank Historico - 2025", url: "https://app.powerbi.com/reportEmbed?reportId=30e400ac-b050-48fd-a8a3-fea468e8c370&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Rank Historico - 2024", url: "https://app.powerbi.com/reportEmbed?reportId=0a50e7e5-e7fe-4d7e-a63c-105ff7d895bf&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Assinaturas", url: "https://app.powerbi.com/reportEmbed?reportId=a4078798-7440-46e8-bd9f-3cbc58dd1669&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
@@ -14,11 +13,8 @@ export const QualiconsigOutput = [
 ]
 
 export const Parceiros = [
-  {title: "Inbursa visão Bancos", url: "https://app.powerbi.com/reportEmbed?reportId=d17ec5ad-fa5e-4b20-9eb1-5a4cc32ea22f&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
-  {title: "Inbursa Visão Empresas", url: "https://app.powerbi.com/reportEmbed?reportId=2a3e83b8-0890-4dbc-87dc-14308ec0aa56&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Top 10 | Diario", url: "https://app.powerbi.com/reportEmbed?reportId=f88daec5-421d-4aa2-afb9-0cfbd6c8f011&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
-  {title: "Q20", url: "https://app.powerbi.com/reportEmbed?reportId=326a765a-6781-40e5-86f8-732ad7f8b486&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
-  {title: "Projeto Q20 V2 - Parceiros", url: "https://app.powerbi.com/reportEmbed?reportId=98dea945-8913-42da-9db3-07788bddf777&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
+  {title: "Q20 - Parceiros", url: "https://app.powerbi.com/reportEmbed?reportId=98dea945-8913-42da-9db3-07788bddf777&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Retorno CIP", url: "https://app.powerbi.com/reportEmbed?reportId=0c4fb576-b745-4402-9e38-a6d70403c335&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Digitação Diaria", url: "https://app.powerbi.com/reportEmbed?reportId=ccff6aa1-5ac2-42d4-946a-7c9c9fb6e59e&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"},
   {title: "Rank Diario", url: "https://app.powerbi.com/reportEmbed?reportId=f4cd1d73-03dd-4d12-bc59-23e839851e59&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e"}
