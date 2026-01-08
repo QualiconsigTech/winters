@@ -40,7 +40,7 @@ export const Parceiros = [
   },
   {
     title: "Q20 - Parceiros",
-    url: "https://app.powerbi.com/reportEmbed?reportId=98dea945-8913-42da-9db3-07788bddf777&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
+    url: "https://app.powerbi.com/reportEmbed?reportId=b664cac7-8874-426b-9617-11ebcf5679fb&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
   },
   {
     title: "Retorno CIP",
