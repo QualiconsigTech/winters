@@ -1,7 +1,7 @@
 export const QualiconsigOutput = [
   {
     title: "Ranking Diario",
-    url: "https://app.powerbi.com/reportEmbed?reportId=71e2ba62-f598-4605-ac3e-7ee5f4ff9fd1&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
+    url: "https://app.powerbi.com/reportEmbed?reportId=5e02bef8-735d-4654-b805-21e3250d8c65&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
   },
   {
     title: "Rank Historico - 2025",
