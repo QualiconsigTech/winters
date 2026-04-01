@@ -1,7 +1,8 @@
 export const QualiconsigOutput = [
   {
     title: "Ranking Diario",
-    url: "https://app.powerbi.com/reportEmbed?reportId=5e02bef8-735d-4654-b805-21e3250d8c65&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
+    url: '/'
+    // url: "https://app.powerbi.com/reportEmbed?reportId=5e02bef8-735d-4654-b805-21e3250d8c65&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
   },
   {
     title: "Rank Historico - 2025",
@@ -40,7 +41,8 @@ export const Parceiros = [
   },
   {
     title: "Q20 - Parceiros",
-    url: "https://app.powerbi.com/reportEmbed?reportId=b664cac7-8874-426b-9617-11ebcf5679fb&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
+    url: '/'
+    // url: "https://app.powerbi.com/reportEmbed?reportId=b664cac7-8874-426b-9617-11ebcf5679fb&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
   },
   {
     title: "Retorno CIP",
