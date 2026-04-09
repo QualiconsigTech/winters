@@ -38,10 +38,10 @@ export const Parceiros = [
     title: "Top 10 | Diario",
     url: "https://app.powerbi.com/reportEmbed?reportId=f88daec5-421d-4aa2-afb9-0cfbd6c8f011&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
   },
-  {
-    title: "Q20 - Parceiros",
-    url: "https://app.powerbi.com/reportEmbed?reportId=b664cac7-8874-426b-9617-11ebcf5679fb&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
-  },
+  // {
+  //   title: "Q20 - Parceiros",
+  //   url: "https://app.powerbi.com/reportEmbed?reportId=b664cac7-8874-426b-9617-11ebcf5679fb&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
+  // },
   {
     title: "Retorno CIP",
     url: "https://app.powerbi.com/reportEmbed?reportId=0c4fb576-b745-4402-9e38-a6d70403c335&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
