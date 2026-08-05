@@ -31,6 +31,10 @@ export const QualiconsigOutput = [
     title: "PRODUÇÃO MARGEM E CARTÃO",
     url: "https://app.powerbi.com/reportEmbed?reportId=78f82242-3f9d-4825-975f-d150ba7af1f3&autoAuth=true&ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e",
   },
+  {
+    title: "People Analytics",
+    url: "https://app.powerbi.com/groups/me/reports/7451897e-311d-463d-b67a-1d20148695b4/6792068ee3e070e8078e?language=pt-BR&experience=power-bi",
+  },
 ];
 
 export const Parceiros = [
