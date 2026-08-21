@@ -35,6 +35,10 @@ export const QualiconsigOutput = [
     title: "People Analytics",
     url: "https://app.powerbi.com/groups/me/reports/7451897e-311d-463d-b67a-1d20148695b4/6792068ee3e070e8078e?language=pt-BR&experience=power-bi",
   },
+  {
+    title: "People Analytics - BP",
+    url: "https://app.powerbi.com/links/s0iDtQgd9M?ctid=83bc0f1e-f029-4f4f-a62a-401fb961118e&pbi_source=linkShare",
+  },
 ];
 
 export const Parceiros = [
